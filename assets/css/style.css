@@ -14,13 +14,10 @@ body {
 .navbar-brand {
   margin-right: 0; }
   .navbar-brand img {
-    height: 70px; }
+    height: 62px; }
 
-  #company-name{
-    /* font-weight: bold; */
-    /* font-family: 'Open Sans'; */
+#company-name{
     font-family: 'Fredericka the Great', cursive;
-    /* font-family: 'Open Sans', sans-serif; */
     color: rgb(33, 33, 153);
     font-size: 28px;
     padding: 3px;
